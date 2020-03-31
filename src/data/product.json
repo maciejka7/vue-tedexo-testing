@@ -1,0 +1,79 @@
+{
+  "products": [
+    {
+      "idproducts": 28797,
+      "product_category": "EC_ISS",
+      "name": "Karta Podarunkowa",
+      "decription": "Najlepszy prezent na Święta.Karta Podarunkowa to nowoczesny podarunek, dla Twoich pracowników, którzy sami wybiorą sobie prezenty dzięki szerokiej sieci punktów akceptujących płatności kartami Mastercard.\nW okresie świąt Bożego Narodzenia oraz Wielkanocy Karcie Podarunkowej towarzyszy atrakcyjna oferta promocji dostępnych w formie drukowanej oraz online. Teraz również ze specjalną promocją w sklepach Biedronka w całej Polsce.\n",
+      "product_type": "25",
+      "price": 0,
+      "status": "ACTIVE",
+      "commission_calc_mode": "%",
+      "commission_value": 1.5,
+      "delivery_fee": 35,
+      "delivery_free_quantity": 0,
+      "card_fee": 8,
+      "type_mrk": null,
+      "slug": "karta-podarunkowa",
+      "file": "Zalacznik_do_konfekcji_kart–wzor.xlsx",
+      "confection": [
+        {
+          "card_fee": 0,
+          "commission_calc_mode": null,
+          "commission_value": null,
+          "decription": "ESPI_koperta_karta_standard",
+          "delivery_fee": 0,
+          "delivery_free_quantity": 0,
+          "idproducts": 29161,
+          "name": "Koperta z etykietą",
+          "price": 0.45,
+          "product_category": "MKT_ISS",
+          "product_type": "MK",
+          "slug": "koperta-z-etykieta",
+          "status": "ACTIVE",
+          "type_mrk": null
+        },
+        {
+          "card_fee": 0,
+          "commission_calc_mode": null,
+          "commission_value": null,
+          "decription": "ESPI_etui_karta",
+          "delivery_fee": 0,
+          "delivery_free_quantity": 0,
+          "idproducts": 29162,
+          "name": "Etui z etykietą",
+          "price": 1,
+          "product_category": "MKT_ISS",
+          "product_type": "MK",
+          "slug": "etui-z-etykieta",
+          "status": "ACTIVE",
+          "type_mrk": null
+        }
+      ]
+    }
+  ],
+  "promo": [
+    {
+      "idproducts": 1000001,
+      "product_category": "MRK",
+      "name": "Pakiet promocji",
+      "decription": "Pakiet promocji",
+      "product_type": 111,
+      "price": 0,
+      "status": "ACTIVE",
+      "created": "2020-03-31 23:17:57"
+    }
+  ],
+  "delivery_fee": [
+    {
+      "idproducts": 1000002,
+      "product_category": "AD",
+      "name": "Liczba pkt. dostaw",
+      "decription": "Liczba pkt. dostaw",
+      "product_type": 112,
+      "price": null,
+      "status": "ACTIVE",
+      "created": "2020-03-31 23:17:57"
+    }
+  ]
+}
